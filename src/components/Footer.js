@@ -6,7 +6,7 @@ class Footer extends React.Component {
             <footer class="text-muted">
                 <div class="container">
                     <p class="float-right">
-                        <a href="#">Back to top</a>
+                        < button href="#">Back to top</button>
                     </p>
                     <p>
                         &copy; Valley Truck Centers

@@ -81,7 +81,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/coupe.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -115,7 +115,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/ecosport.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -143,7 +143,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/escape.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -177,7 +177,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/edge.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -211,7 +211,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/mustang.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -246,7 +246,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/sl_orig.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -280,7 +280,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/van.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
@@ -314,7 +314,7 @@ class Home extends React.Component{
                                     <img
                                         class="card-img-top"
                                         src="assets/imgs/bronco.png"
-                                        alt="Card image cap" />
+                                        alt="Card cap" />
                                     <div class="card-body">
                                         <p class="card-text">
                                             This is a wider card with supporting text below as a natural
